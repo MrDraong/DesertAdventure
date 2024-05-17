@@ -10,10 +10,8 @@ Dans ce repository vous trouverez un projet de jeu 2D réalisé avec l'incroyabl
 Tous les assets seront réalisées par mes soins, et disponibles gratuitement (CC0) sur https://mrdraong.itch.io dès que je les aurais terminées !
 Le code et le projet sont entièrement à disposition. N'hésitez pas à mentionner mon pseudo @MrDraong dans vos projets si vous utilisez mes assets, ça fait toujours plaisir !
 
-
+## English
 <details>
-<summary>## English</summary>
-
 In this repository and in this game you'll find a project entirely made by me.
 With the amazing Godot engine !
 
